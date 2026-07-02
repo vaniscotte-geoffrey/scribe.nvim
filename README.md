@@ -1,1 +1,2 @@
 # scribe.nvim
+# scribe.nvim
